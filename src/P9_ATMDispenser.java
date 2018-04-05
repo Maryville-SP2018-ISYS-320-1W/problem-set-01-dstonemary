@@ -1,7 +1,7 @@
 /*
-	ISYS 320
-	Name(s):
-	Date: 
+  	ISYS 320
+  	Name(s): Derek Stone
+  	Date:    April-04-2018
 */
 
 public class P9_ATMDispenser {
@@ -12,7 +12,7 @@ public class P9_ATMDispenser {
 		int tens;
 		int ones;
 		
-		dollars = 49;
+		dollars = 99;
 		tens = dollars / 10;
 		ones = dollars % 10;
 		

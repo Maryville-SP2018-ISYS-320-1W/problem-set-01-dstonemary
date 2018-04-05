@@ -1,7 +1,7 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Derek Stone
+  	Date:    April-04-2018
 */
 
 public class P1_TwoCities {

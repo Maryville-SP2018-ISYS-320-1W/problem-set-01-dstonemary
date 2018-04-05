@@ -1,14 +1,13 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Derek Stone
+  	Date:    April-04-2018
 */
 
 /* 6. Your pseudocode algorithm here
 
-for ( start at 10, go until it reaches 1, descending )
-square = number * number
-print out result with a space
+for ( start number at 10, go until it reaches 1, descending )
+print out result (number * number) with a space
 
 */
 
@@ -20,11 +19,7 @@ public class P5_DescendingSquares {
 		
 		public static void squaresTo10() {
 			for( int i = 10; i >= 1; i-- ) {
-				int square = 0;
-				square = square + i * i;
-				
-				System.out.print( square );
-				System.out.print(" ");
+				System.out.print( (i * i) +" ");
 			}
 
 		}
